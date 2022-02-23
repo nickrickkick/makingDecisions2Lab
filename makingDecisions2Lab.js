@@ -89,7 +89,7 @@ if (score >= 90){
 ////////// PROBLEM 6 //////////
 
 // Do not edit the code below.
-var myFavoriteNumbers = [4,8,12,16,20,24];
+var myFavoriteNumbers = [4,8,12,16,20,24, 6, 45];
 // Do not edit the code above.
 
 /*
